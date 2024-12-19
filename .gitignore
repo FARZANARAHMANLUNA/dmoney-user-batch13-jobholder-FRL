@@ -1,0 +1,6 @@
+.env
+Reports
+node_modules
+package-lock.json
+ckey.txt
+RTSDETAPIA1.postman_collection.json
